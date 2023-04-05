@@ -1,3 +1,1 @@
-# Iris-Flower-Classification
-This was a task given to me as an intern at Oasis Infobyte. Iris flower classification is a classic machine learning problem that involves predicting the species of iris flowers based on their sepal length, sepal width, petal length, and petal width. The dataset used for this problem is called the Iris dataset, which contains 150 instances of iris flowers, with 50 instances for each of the three species: Iris setosa, Iris versicolor, and Iris virginica.
-The goal of the classification problem is to build a model that can accurately predict the species of iris flowers based on their sepal length, sepal width, petal length, and petal width.Several machine learning algorithms can be used to solve this problem, including logistic regression, support vector machines, decision trees, and k-nearest neighbors.
+
